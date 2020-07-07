@@ -4,7 +4,7 @@ import './SearchBar.css';
 const sortByOptions = {
     'bestMatch': 'best_match',
     'highestRated': 'rating',
-    'mostReviewed': 'review_coun'
+    'mostReviewed': 'review_count'
 };
 
 export default class SearchBar extends React.Component {
